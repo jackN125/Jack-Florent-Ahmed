@@ -95,7 +95,7 @@ Après avoir modifié index.txt
 
 <img width="723" height="376" alt="image" src="https://github.com/user-attachments/assets/56de7a62-9b48-4228-9fdc-018b2d650e1d" />
 
-Parce que vous avez utilisé un bind mount (-v) :
+Parce que nous avons utilisé un bind mount (-v) :
 - Le dossier exercice-3/html sur votre machine est directement lié à /usr/share/nginx/html à l’intérieur du conteneur
 - nginx sert les fichiers depuis ce dossier en temps réel
 - Donc toute modification faite localement est immédiatement visible dans le conteneur
