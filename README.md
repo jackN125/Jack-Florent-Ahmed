@@ -338,6 +338,11 @@ Exercice 8 — Optimisation d'image : multi-stage build, .dockerignore et non-ro
 
 Parce que vous n’avez besoin que du code nécessaire pour exécuter le programme.
 
+8.3
+
+<img width="782" height="601" alt="image" src="https://github.com/user-attachments/assets/dccf3e28-69dd-4dea-85d6-cff93a7e8dec" />
+
+
 
 
 
