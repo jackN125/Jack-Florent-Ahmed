@@ -201,6 +201,10 @@ Utiliser une image de base plus légère comme python:3.12-alpine ou utiliser un
 
 Exercice 6 — Docker Compose : stack multi-services
 
+6.1
+<img width="710" height="529" alt="image" src="https://github.com/user-attachments/assets/bc33b9be-45d4-4ee4-b827-7c9e4fa12db2" />
+Création de app.py
+
 
 
 
