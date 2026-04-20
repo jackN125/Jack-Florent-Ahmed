@@ -219,6 +219,11 @@ Exercice 6 — Docker Compose : stack multi-services
 Création de app.py
 
 
+6.2
+<img width="402" height="169" alt="image" src="https://github.com/user-attachments/assets/dd317e06-7a59-4915-adf8-4fcee3fa45f6" />
+Création du app\requirements.txt
+
+
 
 
 
