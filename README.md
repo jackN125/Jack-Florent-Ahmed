@@ -114,6 +114,19 @@ Parce que nous avons utilisé un bind mount (-v) :
 
 <img width="266" height="100" alt="image" src="https://github.com/user-attachments/assets/0ad5b6ba-9887-407d-ae30-33ad9ab9f417" />
 
+3.6
+
+<img width="655" height="310" alt="image" src="https://github.com/user-attachments/assets/6557879a-90b7-4463-9363-5069f0e6be83" />
+
+3.7
+
+<img width="655" height="310" alt="image" src="https://github.com/user-attachments/assets/5c49a9b7-a4b6-442d-9aef-790525783dec" />
+
+
+Vous ne pouvez pas supprimer un volume s’il est actuellement utilisé par un conteneur. Vous devez d’abord supprimer le conteneur.
+Assurez-vous toujours d’avoir une sauvegarde des données si elles sont importantes.
+
+
 
 
 
