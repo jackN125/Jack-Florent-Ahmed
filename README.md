@@ -23,5 +23,8 @@ On voit que le conteneur est arreté
 1.7
 <img width="891" height="177" alt="image" src="https://github.com/user-attachments/assets/b7b2c040-1680-4798-9b53-aa82bbe68cdf" />
 
+1.8
+La commande qui permet de lancer le conteneur de façon à ce qu'il soit automatiquement suppromé à l'arrêt est : docker run -d -p 8080:80 --name mon-nginx --rm nginx:alpine
+
 
 
