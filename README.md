@@ -134,6 +134,11 @@ Exercice 5 — Containeriser un serveur Flask
 Création du fichier app.py
 
 
+5.2
+<img width="400" height="178" alt="image" src="https://github.com/user-attachments/assets/26341a59-cbfd-4410-8ff8-b0f9dbd1087e" />
+Création du requirements.txt
+
+
 
 
 
