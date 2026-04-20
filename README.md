@@ -168,7 +168,22 @@ Construction de l'image
 5.5
 <img width="925" height="86" alt="image" src="https://github.com/user-attachments/assets/de807dd1-b44c-4963-8e03-463a12acdd57" />
 <img width="543" height="199" alt="image" src="https://github.com/user-attachments/assets/bf588d56-809d-4ab2-ab2f-a3418d8ae519" />
-On peut voir sur le http://localhost:5000/ le Flask fonstionne
+Sur http://localhost:5000/, la page affiche bien "Flask fonctionne !" avec "Environnement : production"
+
+5.6
+<img width="933" height="106" alt="image" src="https://github.com/user-attachments/assets/e1e32112-9858-4733-a542-149f0b6b2b7b" />
+<img width="582" height="210" alt="image" src="https://github.com/user-attachments/assets/6e504402-3dfc-4d4a-802c-e30e1d8b1c81" />
+Sur http://localhost:5000/, la page affiche bien "Flask fonctionne !" avec "Environnement : développement"
+
+
+5.7
+<img width="933" height="130" alt="image" src="https://github.com/user-attachments/assets/3e4190cb-2cdb-4038-9391-81e7900bea7c" />
+L'image flask-app:v1 fait 197MB. Pour la réduire, on pourrait :
+Utiliser une image de base plus légère comme python:3.12-alpine;
+Utiliser un multi-stage build pour ne copier que les dépendances nécessaires dans l'image finale, sans les outils de build
+
+
+
 
 
 
