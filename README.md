@@ -71,7 +71,7 @@ Les 3 réseaux de base sont bridge, host et none
 
 On récupère le code HTML de la page "Welcome to nginx!" qui se trouve sur le conteneur "serveur-web"
 
-Car docker inclut un serveur DNS embarqué. Dans un réseau "user-defined bridge" (personnalisé), Docker enregistre automatiquement le nom du conteneur. Il traduit serveur-web en l'adresse IP interne correspondante.
+Car docker inclut un serveur DNS embarqué. Dans un réseau personnalisé, Docker enregistre automatiquement le nom du conteneur. Il traduit serveur-web en l'adresse IP interne correspondante.
 
 
 
