@@ -310,7 +310,15 @@ On a bien accès à nginx sur le port 8080 (celui précisé dans le .env)
 
 La commande qui permet d'afficher le fichier Compose après interpolation des variables est "docker compose config"
 
+7.7
 
+<img width="1048" height="113" alt="image" src="https://github.com/user-attachments/assets/e5e26281-b2ef-49f9-a36d-b0273b34810a" />
+
+(Utilisation de l'ia pour trouver la commande pour Windows)
+
+<img width="1172" height="467" alt="image" src="https://github.com/user-attachments/assets/f98ece80-8467-4ac6-accc-dfbfa5692840" />
+
+Nginx sera maintenant accessible sur le port 8080 et le port 9999 nouvellement ajouté
 
 Exercice 8 — Optimisation d'image : multi-stage build, .dockerignore et non-root
 
