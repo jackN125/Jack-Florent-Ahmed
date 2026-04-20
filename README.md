@@ -1,4 +1,4 @@
-# Jack-Florent-Ahmed
+# Exercices Docker - Jack Negrello; Ahmed Nidious; Florent Lavignasse
 
 Exercice 1 — Premier contact avec Docker
 
@@ -145,6 +145,8 @@ Création du requirements.txt
 <img width="554" height="426" alt="image" src="https://github.com/user-attachments/assets/7d5139d3-2a1d-4e70-99bb-0df794f25327" />
 Création du Dockfile
 
+
+Exercice 6 — Docker Compose : stack multi-services
 
 
 
