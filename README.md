@@ -66,6 +66,7 @@ Changement du h1 (jack-version 2)
 Le layer FROM nginx:alpine a été rechargé depuis le cache car l'image de base n'a pas changé. Le layer COPY index.html a été réexécuté car le fichier source a été modifié.
 
 
+
 Exercice 3 — Volumes et persistance des données
 
 3.1
