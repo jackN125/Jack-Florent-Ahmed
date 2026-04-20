@@ -250,7 +250,7 @@ En visitant http://localhost:5000 plusieurs fois, le compteur augmente, il est p
 
 <img width="587" height="282" alt="image" src="https://github.com/user-attachments/assets/203d1660-5b1d-46aa-a6ed-12dd2fe1c161" />
 <img width="486" height="135" alt="image" src="https://github.com/user-attachments/assets/55a651c6-8188-4266-8981-a347de7c5aad" />
-Le compteur ne repart pas de zéro après un down puis up. Il continue là où il s'était arrêté grâce au volume nommé redis-data, ce volume persiste les données Redis sur le disque de l'hôte. Même si le conteneur est supprimé et recréé, les données sont conservées dans le volume
+Le compteur ne repart pas de zéro après un down puis up. Il continue là où il s'était arrêté grâce au volume nommé redis-data, ce volume persiste les données Redis sur le disque de l'hôte. Même si le conteneur est supprimé et recréé, les données sont conservées dans le volume.
 
 
 6.8
@@ -258,6 +258,16 @@ Le compteur ne repart pas de zéro après un down puis up. Il continue là où i
 La commande est docker compose logs -f. Le flag -f (follow) affiche les logs en temps réel de tous les services de la stack
 
 
+
+6.9
+<img width="812" height="74" alt="image" src="https://github.com/user-attachments/assets/ad062a51-f33e-410b-b122-a51632f84fe7" />
+La commande docker compose exec web sh permet d'ouvrir un shell interactif dans le conteneur web sans connaître son ID.
+
+
+
+6.10
+<img width="668" height="158" alt="image" src="https://github.com/user-attachments/assets/2793ecbb-142a-4612-ab2f-a295a72ed7ac" />
+Le flag -v supprime en plus les volumes associés à la stack. Sans -v, docker compose down supprime uniquement les conteneurs et les réseaux, mais conserve les volumes.
 
 
 
