@@ -141,6 +141,11 @@ Création du fichier app.py
 <img width="400" height="178" alt="image" src="https://github.com/user-attachments/assets/26341a59-cbfd-4410-8ff8-b0f9dbd1087e" />
 Création du requirements.txt
 
+5.3
+<img width="554" height="426" alt="image" src="https://github.com/user-attachments/assets/7d5139d3-2a1d-4e70-99bb-0df794f25327" />
+Création du Dockfile
+
+
 
 
 
