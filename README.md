@@ -18,6 +18,8 @@ On voit la page du site qui tourne sur le conteneur
 1.6
 <img width="1470" height="183" alt="image" src="https://github.com/user-attachments/assets/f9e1a1a4-3da7-4249-9371-6d25ee765d80" />
 
+On voit que le conteneur est arreté
+
 1.7
 <img width="891" height="177" alt="image" src="https://github.com/user-attachments/assets/b7b2c040-1680-4798-9b53-aa82bbe68cdf" />
 
