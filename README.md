@@ -250,7 +250,7 @@ En visitant http://localhost:5000 plusieurs fois, le compteur augmente, il est p
 
 <img width="587" height="282" alt="image" src="https://github.com/user-attachments/assets/203d1660-5b1d-46aa-a6ed-12dd2fe1c161" />
 <img width="486" height="135" alt="image" src="https://github.com/user-attachments/assets/55a651c6-8188-4266-8981-a347de7c5aad" />
-Le compteur ne repart pas de zéro après un down puis up. Il continue là où il s'était arrêté grâce au volume nommé redis-data, ce volume persiste les données Redis sur le disque de l'hôte. Même si le conteneur est supprimé et recréé, les données sont conservées dans le volume.
+Le compteur ne repart pas de zéro après un down puis up. Il continue là où il s'était arrêté grâce au volume nommé redis-data, ce volume persiste les données Redis sur le disque de l'hôte. Même si le conteneur est supprimé et recréé, les données sont conservées dans le volume
 
 
 6.8
@@ -289,11 +289,16 @@ Le fichier .env.example est un "modèle". Il permet aux autres membres de l'équ
 
 7.5 Lancement de la stack
 <img width="816" height="154" alt="image" src="https://github.com/user-attachments/assets/02138dd1-c1dd-48bf-adec-60b3dcc9fb79" />
-<img width="1361" height="455" alt="image" src="https://github.com/user-attachments/assets/3905f952-25ea-470b-b45c-f7338a00a170" />
 
+<img width="1361" height="455" alt="image" src="https://github.com/user-attachments/assets/3905f952-25ea-470b-b45c-f7338a00a170" />
 
 On a bien accès à nginx sur le port 8080 (celui précisé dans le .env)
 
+7.6 
+
+<img width="835" height="592" alt="image" src="https://github.com/user-attachments/assets/704534dc-0080-4f49-a709-b262cc99f7d6" />
+
+La commande qui permet d'afficher le fichier Compose après interpolation des variables est "docker compose config"
 
 
 
