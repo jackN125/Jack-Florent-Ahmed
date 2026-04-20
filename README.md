@@ -73,6 +73,12 @@ On récupère le code HTML de la page "Welcome to nginx!" qui se trouve sur le c
 
 Car docker inclut un serveur DNS embarqué. Dans un réseau personnalisé, Docker enregistre automatiquement le nom du conteneur. Il traduit serveur-web en l'adresse IP interne correspondante.
 
+4.5
+<img width="718" height="87" alt="image" src="https://github.com/user-attachments/assets/693ca81a-0c71-4a80-ab7d-30b28aa5c718" />
+
+La commande échoue avec une erreur wget: bad address 'serveur-web'.
+
+Car client-externe et serveur-web sont sur deux réseaux isolés. Ils ne peuvent pas communiquer sans une connexion explicite.
 
 
 
