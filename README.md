@@ -151,6 +151,13 @@ Création du Dockfile
 Construction de l'image
 
 
+5.5
+<img width="925" height="86" alt="image" src="https://github.com/user-attachments/assets/de807dd1-b44c-4963-8e03-463a12acdd57" />
+<img width="543" height="199" alt="image" src="https://github.com/user-attachments/assets/bf588d56-809d-4ab2-ab2f-a3418d8ae519" />
+On peut voir sur le http://localhost:5000/ le Flask fonstionne
+
+
+
 
 Exercice 6 — Docker Compose : stack multi-services
 
