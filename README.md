@@ -260,6 +260,22 @@ Le fichier .env.example est un "modèle". Il permet aux autres membres de l'équ
 
 
 
+Exercice 8 — Optimisation d'image : multi-stage build, .dockerignore et non-root
+
+8.1
+-Créez Dockerfile.naive
+<img width="861" height="315" alt="image" src="https://github.com/user-attachments/assets/ad6b73db-e63b-48ec-b605-4444dae1baa1" />
+
+-Créez app.py
+
+<img width="442" height="290" alt="image" src="https://github.com/user-attachments/assets/27646a90-a107-4096-9601-e48f5a720d0c" />
+
+-app-naive:v1 avec docker build -f Dockerfile.naive .
+
+<img width="1098" height="557" alt="image" src="https://github.com/user-attachments/assets/8899f32f-ff17-447a-8a13-8b0564731fd3" />
+
+<img width="1276" height="606" alt="image" src="https://github.com/user-attachments/assets/219119cb-a717-417a-9439-5f00ad0c163c" />
+
 
 
 
