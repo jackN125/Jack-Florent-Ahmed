@@ -93,6 +93,11 @@ La commande échoue avec une erreur wget: bad address 'serveur-web'.
 
 Car client-externe et serveur-web sont sur deux réseaux isolés. Ils ne peuvent pas communiquer sans une connexion explicite.
 
+4.6 
+<img width="897" height="776" alt="image" src="https://github.com/user-attachments/assets/bbb09420-fac9-4aa8-a94e-1b6a56497c18" />
+
+Grace à la commande connect
+
 
 
 
