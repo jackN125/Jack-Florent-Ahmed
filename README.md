@@ -142,8 +142,14 @@ Création du fichier app.py
 Création du requirements.txt
 
 5.3
-<img width="554" height="426" alt="image" src="https://github.com/user-attachments/assets/7d5139d3-2a1d-4e70-99bb-0df794f25327" />
+<img width="565" height="382" alt="image" src="https://github.com/user-attachments/assets/07bf3e61-b881-4e7c-bbc4-c4a26b0d954e" />
 Création du Dockfile
+
+
+5.4
+<img width="934" height="750" alt="image" src="https://github.com/user-attachments/assets/215f9089-d72a-4589-94af-7f1aeaa6a78e" />
+Construction de l'image
+
 
 
 Exercice 6 — Docker Compose : stack multi-services
