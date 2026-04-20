@@ -223,6 +223,12 @@ Création de app.py
 <img width="402" height="169" alt="image" src="https://github.com/user-attachments/assets/dd317e06-7a59-4915-adf8-4fcee3fa45f6" />
 Création du app\requirements.txt
 
+Exercice 7 — Variables d'environnement, fichiers .env et surcharge de configuration
+
+7.1 Création du fichier .env
+<img width="465" height="222" alt="image" src="https://github.com/user-attachments/assets/20f3c2ca-cb72-46ec-9dc1-e76b34e5ad6d" />
+
+
 
 
 
