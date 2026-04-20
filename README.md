@@ -101,6 +101,18 @@ Parce que nous avons utilisé un bind mount (-v) :
 - Donc toute modification faite localement est immédiatement visible dans le conteneur
 
 
+3.3
+
+<img width="1692" height="478" alt="image" src="https://github.com/user-attachments/assets/be7665ea-0f5d-4b63-ad7b-d0a7bbf8d4c5" />
+
+3.4
+
+<img width="716" height="210" alt="image" src="https://github.com/user-attachments/assets/7cec3d43-5a30-45b9-b4da-463ae4eaf8e0" />
+
+3.5
+<img width="596" height="88" alt="image" src="https://github.com/user-attachments/assets/0a243c82-70ee-4f64-bafa-44303ddf7028" />
+
+<img width="266" height="100" alt="image" src="https://github.com/user-attachments/assets/0ad5b6ba-9887-407d-ae30-33ad9ab9f417" />
 
 
 
