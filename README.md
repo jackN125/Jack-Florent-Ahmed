@@ -246,6 +246,14 @@ La commande pour démarrer la stack en arrière-plan est docker compose up -d
 En visitant http://localhost:5000 plusieurs fois, le compteur augmente, il est passé de Visiteur n°1 à Visiteur n°19. En visitant /reset, le message "Compteur remis à zéro" s'affiche et le compteur repart de zéro.
 
 
+6.7
+
+<img width="587" height="282" alt="image" src="https://github.com/user-attachments/assets/203d1660-5b1d-46aa-a6ed-12dd2fe1c161" />
+<img width="486" height="135" alt="image" src="https://github.com/user-attachments/assets/55a651c6-8188-4266-8981-a347de7c5aad" />
+Le compteur ne repart pas de zéro après un down puis up. Il continue là où il s'était arrêté grâce au volume nommé redis-data, ce volume persiste les données Redis sur le disque de l'hôte. Même si le conteneur est supprimé et recréé, les données sont conservées dans le volume.
+
+
+
 
 
 
