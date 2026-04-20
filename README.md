@@ -43,7 +43,8 @@ Les 3 réseaux de base sont bridge, host et none
 <img width="796" height="222" alt="image" src="https://github.com/user-attachments/assets/090c03eb-1552-4a2e-9f5f-d41075d5ea0a" />
 
 4.3
-<img width="996" height="57" alt="image" src="https://github.com/user-attachments/assets/4e7323f3-7b62-4ab4-92c9-ed5d701c5fa8" />
+<img width="996" height="61" alt="image" src="https://github.com/user-attachments/assets/e8bc8880-0efb-4612-9ccb-d68b3947088f" />
+
 
 
 
