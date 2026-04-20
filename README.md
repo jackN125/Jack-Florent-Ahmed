@@ -103,6 +103,10 @@ Car client-externe et serveur-web sont sur deux réseaux isolés. Ils ne peuvent
 
 Grace à la commande connect
 
+4.7 
+<img width="753" height="291" alt="image" src="https://github.com/user-attachments/assets/f882d311-9043-4cf5-91d3-10df219cdac6" />
+
+
 
 
 
