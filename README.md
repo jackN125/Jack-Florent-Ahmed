@@ -126,6 +126,14 @@ Grace à la commande connect
 
 
 
+Exercice 5 — Containeriser un serveur Flask
+
+
+5.1
+<img width="707" height="521" alt="image" src="https://github.com/user-attachments/assets/9db0c41d-4d5e-41e5-bb01-31dff09f1ae5" />
+Création du fichier app.py
+
+
 
 
 
