@@ -60,6 +60,12 @@ Les 3 réseaux de base sont bridge, host et none
 4.3
 <img width="996" height="61" alt="image" src="https://github.com/user-attachments/assets/e8bc8880-0efb-4612-9ccb-d68b3947088f" />
 
+4.4
+<img width="1036" height="811" alt="image" src="https://github.com/user-attachments/assets/5e31aec3-bf5a-4237-ae58-39c37dee6e55" />
+
+On récupère le code HTML de la page "Welcome to nginx!" qui se trouve sur le conteneur "serveur-web"
+
+Car docker inclut un serveur DNS embarqué. Dans un réseau "user-defined bridge" (personnalisé), Docker enregistre automatiquement le nom du conteneur. Il traduit serveur-web en l'adresse IP interne correspondante.
 
 
 
