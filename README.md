@@ -234,6 +234,11 @@ Création du ficher Dockerfile
 Création du fichier compose.yaml
 
 
+6.5
+<img width="933" height="117" alt="image" src="https://github.com/user-attachments/assets/0a249a82-6b9d-4dd9-88ef-57ea0f768155" />
+La commande pour démarrer la stack en arrière-plan est docker compose up -d
+
+
 
 Exercice 7 — Variables d'environnement, fichiers .env et surcharge de configuration
 
