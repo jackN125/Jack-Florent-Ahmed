@@ -10,6 +10,8 @@ La commande qui permet de lister les conteneurs en cours d'exécution est docker
 1.4
 <img width="859" height="399" alt="image" src="https://github.com/user-attachments/assets/25ce89ee-61c7-4dc3-85f8-c7e9a878842a" />
 
+On voit la page du site qui tourne sur le conteneur
+
 1.5
 <img width="1888" height="983" alt="image" src="https://github.com/user-attachments/assets/c2e1c5e3-8275-4f67-86f2-596ef0c0f0a4" />
 
