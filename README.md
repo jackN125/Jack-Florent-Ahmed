@@ -229,6 +229,12 @@ Création du app\requirements.txt
 Création du ficher Dockerfile
 
 
+6.4
+<img width="484" height="496" alt="image" src="https://github.com/user-attachments/assets/4aa556dc-c79e-41ed-933f-87feb4e13e67" />
+Création du fichier compose.yaml
+
+
+
 Exercice 7 — Variables d'environnement, fichiers .env et surcharge de configuration
 
 7.1 Création du fichier .env
