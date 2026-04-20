@@ -29,7 +29,14 @@ La commande qui permet de lancer le conteneur de façon à ce qu'il soit automat
 Exercice 2 — Construire sa première image avec un Dockerfile
 
 2.1
-<img width="722" height="824" alt="image" src="https://github.com/user-attachments/assets/0acedf32-9832-467c-8f18-2095b7e0a3d9" />
+<img width="598" height="142" alt="image" src="https://github.com/user-attachments/assets/8396e540-aaf3-4b52-a8b2-46b0c9a79a78" />
+<img width="701" height="319" alt="image" src="https://github.com/user-attachments/assets/9c893713-34cd-4bde-bc5e-0354bef28e10" />
+
+2.2
+<img width="584" height="57" alt="image" src="https://github.com/user-attachments/assets/b6a92382-79b3-480a-911b-c6aaf9fc6d0f" />
+<img width="717" height="255" alt="image" src="https://github.com/user-attachments/assets/4e5f9169-fa45-48d2-b5af-64419072c8e8" />
+
+
 
 
 Exercice 4 — Réseaux Docker
