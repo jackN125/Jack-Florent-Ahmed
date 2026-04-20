@@ -66,6 +66,15 @@ Changement du h1 (jack-version 2)
 Le layer FROM nginx:alpine a été rechargé depuis le cache car l'image de base n'a pas changé. Le layer COPY index.html a été réexécuté car le fichier source a été modifié.
 
 
+2.8
+supprimer le mon-site:v1
+<img width="946" height="155" alt="image" src="https://github.com/user-attachments/assets/6b1e232a-f7c8-40b8-b62e-5852d8315df0" />
+
+On peut voir le mon-site:v2 est toujours present
+<img width="945" height="143" alt="image" src="https://github.com/user-attachments/assets/eeceaa65-b7fa-4fb8-8d0b-1c48b80dcf7f" />
+
+
+
 
 Exercice 3 — Volumes et persistance des données
 
