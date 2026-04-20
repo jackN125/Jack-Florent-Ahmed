@@ -179,8 +179,7 @@ Sur http://localhost:5000/, la page affiche bien "Flask fonctionne !" avec "Envi
 5.7
 <img width="933" height="130" alt="image" src="https://github.com/user-attachments/assets/3e4190cb-2cdb-4038-9391-81e7900bea7c" />
 L'image flask-app:v1 fait 197MB. Pour la réduire, on pourrait :
-Utiliser une image de base plus légère comme python:3.12-alpine;
-Utiliser un multi-stage build pour ne copier que les dépendances nécessaires dans l'image finale, sans les outils de build
+Utiliser une image de base plus légère comme python:3.12-alpine ou utiliser un multi-stage build pour ne copier que les dépendances nécessaires dans l'image finale, sans les outils de build
 
 
 
