@@ -58,6 +58,14 @@ mon-site:v1 sera légèrement plus lourde que nginx:alpine car j'ai ajouté un l
 2 layers ont été ajoutés par rapport à l'image de base nginx:alpine : le COPY qui copie index.html dans le conteneur, et le EXPOSE qui déclare le port 80.
 
 
+2.7
+<img width="529" height="242" alt="image" src="https://github.com/user-attachments/assets/e60f3840-1e77-4a9a-a818-43d0e5e62258" />
+Changement du h1 (jack-version 2)
+
+<img width="954" height="538" alt="image" src="https://github.com/user-attachments/assets/2d539b1f-04a3-4993-b6ae-45c90639adeb" />
+Le layer FROM nginx:alpine a été rechargé depuis le cache car l'image de base n'a pas changé. Le layer COPY index.html a été réexécuté car le fichier source a été modifié.
+
+
 Exercice 3 — Volumes et persistance des données
 
 3.1
