@@ -234,6 +234,12 @@ Exercice 7 — Variables d'environnement, fichiers .env et surcharge de configur
 7.1 Création du fichier .env
 <img width="465" height="222" alt="image" src="https://github.com/user-attachments/assets/20f3c2ca-cb72-46ec-9dc1-e76b34e5ad6d" />
 
+7.2
+<img width="262" height="118" alt="image" src="https://github.com/user-attachments/assets/2130f8d6-81db-47aa-9478-1a44cf5dec90" />
+
+Le fichier gitignore est important car le fichier .env contient souvent des secrets critiques (mots de passe de base de données, clés API). S'il est envoyé sur un dépôt public (comme GitHub), n'importe qui peut accéder à tes données. C'est l'une des causes les plus fréquentes de piratage.
+Le .gitignore est un fichier spécial pour l'outil de versioning Git. Il lui dit : "Ignore ces fichiers, ne les envoie jamais sur le serveur (GitHub, GitLab, etc.)".
+
 
 
 
