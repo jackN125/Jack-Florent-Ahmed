@@ -247,6 +247,14 @@ Le fichier .gitignore est important car le fichier .env contient souvent des sec
 
 Le .gitignore est un fichier spécial pour l'outil de versioning Git. Il lui dit : "Ignore ces fichiers, ne les envoie jamais sur le serveur (GitHub, GitLab, etc.)".
 
+7.3 
+<img width="440" height="213" alt="image" src="https://github.com/user-attachments/assets/99d59c9b-fe33-4cc2-a5f8-d77ac8f9c991" />
+
+Le fichier .env.example est un "modèle". Il permet aux autres membres de l'équipe de savoir quelles variables ils doivent définir localement pour faire fonctionner le projet, sans pour autant leur imposer les données confidentielles du fichier .env .
+
+
+
+
 
 
 
