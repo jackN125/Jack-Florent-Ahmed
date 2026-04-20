@@ -253,6 +253,14 @@ En visitant http://localhost:5000 plusieurs fois, le compteur augmente, il est p
 Le compteur ne repart pas de zéro après un down puis up. Il continue là où il s'était arrêté grâce au volume nommé redis-data, ce volume persiste les données Redis sur le disque de l'hôte. Même si le conteneur est supprimé et recréé, les données sont conservées dans le volume.
 
 
+6.8
+<img width="932" height="175" alt="image" src="https://github.com/user-attachments/assets/af2cff51-29ce-4629-bab2-a75bf1918808" />
+La commande est docker compose logs -f. Le flag -f (follow) affiche les logs en temps réel de tous les services de la stack
+
+
+
+
+
 
 
 
