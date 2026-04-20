@@ -41,9 +41,15 @@ Voici la construction de l'image.
 <img width="925" height="468" alt="image" src="https://github.com/user-attachments/assets/e0493566-b466-4ab7-83e1-ff0e76ee2e90" />
 
 2.4
+Lancement  du conteneur basé sur cette image
 <img width="939" height="1064" alt="image" src="https://github.com/user-attachments/assets/8c879144-34d0-4e31-9e91-295ccbef0313" />
+
+http://localhost:9090 ouvert sur le navigateur, qui montre mon pénom
 <img width="659" height="198" alt="image" src="https://github.com/user-attachments/assets/9eaa87f3-4029-43d3-953c-06d14cec950f" />
 
+2.5
+<img width="938" height="135" alt="image" src="https://github.com/user-attachments/assets/ce8667a5-5086-47d4-aa10-32495abceaed" />
+mon-site:v1 sera légèrement plus lourde que nginx:alpine car j'ai ajouté un layer avec mon index.html.
 
 
 
