@@ -305,8 +305,6 @@ La commande qui permet d'afficher le fichier Compose après interpolation des va
 Exercice 8 — Optimisation d'image : multi-stage build, .dockerignore et non-root
 
 8.1
--Créez Dockerfile.naive
-<img width="861" height="315" alt="image" src="https://github.com/user-attachments/assets/ad6b73db-e63b-48ec-b605-4444dae1baa1" />
 
 -Créez app.py
 
