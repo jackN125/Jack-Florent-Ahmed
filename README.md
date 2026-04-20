@@ -230,13 +230,23 @@ Création du ficher Dockerfile
 
 
 6.4
-<img width="484" height="496" alt="image" src="https://github.com/user-attachments/assets/4aa556dc-c79e-41ed-933f-87feb4e13e67" />
+<img width="443" height="536" alt="image" src="https://github.com/user-attachments/assets/67714590-b1cb-4001-80b5-c93518635868" />
 Création du fichier compose.yaml
 
 
 6.5
 <img width="933" height="117" alt="image" src="https://github.com/user-attachments/assets/0a249a82-6b9d-4dd9-88ef-57ea0f768155" />
 La commande pour démarrer la stack en arrière-plan est docker compose up -d
+
+
+6.6
+<img width="436" height="126" alt="image" src="https://github.com/user-attachments/assets/5b218c9b-32ea-4c8d-bd49-65f2ad59ddb2" />
+<img width="500" height="130" alt="image" src="https://github.com/user-attachments/assets/94978d06-f2e6-4c19-97fe-005cf58a15f1" />
+<img width="462" height="127" alt="image" src="https://github.com/user-attachments/assets/7736777f-7066-4f23-8233-ed2f3455b8e0" />
+En visitant http://localhost:5000 plusieurs fois, le compteur augmente, il est passé de Visiteur n°1 à Visiteur n°19. En visitant /reset, le message "Compteur remis à zéro" s'affiche et le compteur repart de zéro.
+
+
+
 
 
 
