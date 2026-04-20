@@ -53,6 +53,13 @@ mon-site:v1 sera légèrement plus lourde que nginx:alpine car j'ai ajouté un l
 
 
 
+Exercice 3 — Volumes et persistance des données
+
+3.1
+<img width="873" height="344" alt="image" src="https://github.com/user-attachments/assets/7f6fae6d-e815-4883-a0d2-0bf7d3424733" />
+
+docker run -it --rm alpine ls /data
+Cela affichera une erreur aucun fichier ou dossier de ce type parce que l’option --rm dans la commande précédente (docker run -it --rm alpine sh) indique de supprimer le conteneur dès que vous le quittez.
 
 
 
