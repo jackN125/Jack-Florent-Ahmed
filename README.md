@@ -281,7 +281,8 @@ Le fichier .env.example est un "modèle". Il permet aux autres membres de l'équ
 
 7.5 Lancement de la stack
 <img width="816" height="154" alt="image" src="https://github.com/user-attachments/assets/02138dd1-c1dd-48bf-adec-60b3dcc9fb79" />
-<img width="1428" height="497" alt="image" src="https://github.com/user-attachments/assets/ed09650d-1e4f-477e-b58d-abe734da2354" />
+<img width="1361" height="455" alt="image" src="https://github.com/user-attachments/assets/3905f952-25ea-470b-b45c-f7338a00a170" />
+
 
 On a bien accès à nginx sur le port 8080 (celui précisé dans le .env)
 
