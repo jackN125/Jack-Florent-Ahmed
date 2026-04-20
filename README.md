@@ -36,6 +36,12 @@ Exercice 2 — Construire sa première image avec un Dockerfile
 <img width="584" height="57" alt="image" src="https://github.com/user-attachments/assets/b6a92382-79b3-480a-911b-c6aaf9fc6d0f" />
 <img width="717" height="255" alt="image" src="https://github.com/user-attachments/assets/4e5f9169-fa45-48d2-b5af-64419072c8e8" />
 
+2.3
+Voici la construction de l'image.
+<img width="934" height="252" alt="image" src="https://github.com/user-attachments/assets/e9493490-fed0-47bb-b7db-f8d4fa854ec5" />
+
+
+
 
 
 
