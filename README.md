@@ -39,6 +39,10 @@ Exercice 4 — Réseaux Docker
 
 Les 3 réseaux de base sont bridge, host et none
 
+4.2 
+<img width="796" height="222" alt="image" src="https://github.com/user-attachments/assets/090c03eb-1552-4a2e-9f5f-d41075d5ea0a" />
+
+
 
 
 
