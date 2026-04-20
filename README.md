@@ -257,7 +257,9 @@ Le .gitignore est un fichier spécial pour l'outil de versioning Git. Il lui dit
 
 Le fichier .env.example est un "modèle". Il permet aux autres membres de l'équipe de savoir quelles variables ils doivent définir localement pour faire fonctionner le projet, sans pour autant leur imposer les données confidentielles du fichier .env .
 
+7.4 Création du ficher compose.yaml
 
+<img width="541" height="421" alt="image" src="https://github.com/user-attachments/assets/b02afc5d-044b-4183-be2a-87e5a1449fa9" />
 
 
 Exercice 8 — Optimisation d'image : multi-stage build, .dockerignore et non-root
