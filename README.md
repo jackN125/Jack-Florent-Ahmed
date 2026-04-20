@@ -223,6 +223,12 @@ Création de app.py
 <img width="402" height="169" alt="image" src="https://github.com/user-attachments/assets/dd317e06-7a59-4915-adf8-4fcee3fa45f6" />
 Création du app\requirements.txt
 
+
+6.3
+<img width="537" height="358" alt="image" src="https://github.com/user-attachments/assets/341007b7-0eeb-4d83-9f2d-32313890d2cb" />
+Création du ficher Dockerfile
+
+
 Exercice 7 — Variables d'environnement, fichiers .env et surcharge de configuration
 
 7.1 Création du fichier .env
