@@ -22,4 +22,9 @@ Configuration du job node :
 
 <img width="486" height="91" alt="image" src="https://github.com/user-attachments/assets/2e84fbe9-b351-4caa-98e9-f175f6d1fa08" />
 
+Job node sur prometheus après l'avoir relancé : 
+
+<img width="516" height="925" alt="image" src="https://github.com/user-attachments/assets/93e25e4d-90f1-4870-995d-05eb7a869ae0" />
+
+
 
