@@ -50,6 +50,13 @@ Résultat :
 
 <img width="1918" height="797" alt="image" src="https://github.com/user-attachments/assets/23cec221-cb74-4677-a32d-a87fe9218a1d" />
 
+Exercice 5 :
+
+Création de api_rules.yml : 
+
+<img width="957" height="210" alt="image" src="https://github.com/user-attachments/assets/c3b80c1a-be24-421f-b09f-b79f286fb272" />
+
+
 
 
 
