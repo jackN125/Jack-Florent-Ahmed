@@ -6,4 +6,8 @@ Exercice 1 :
 
 Exercice 2 :
 
-<img width="767" height="355" alt="image" src="https://github.com/user-attachments/assets/3de574d4-ce91-4bad-bdec-4167177776fc" />
+<img width="572" height="356" alt="image" src="https://github.com/user-attachments/assets/5eebe71c-60e3-4d17-a0d1-dda0ca0376e2" />
+
+Lancement de prometheus avec le yaml :
+
+<img width="1891" height="83" alt="image" src="https://github.com/user-attachments/assets/55233a57-3eac-4d5c-bc65-f2aa84ba06bb" />
