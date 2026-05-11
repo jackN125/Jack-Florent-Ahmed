@@ -54,7 +54,8 @@ Exercice 5 :
 
 Création de api_rules.yml : 
 
-<img width="957" height="210" alt="image" src="https://github.com/user-attachments/assets/c3b80c1a-be24-421f-b09f-b79f286fb272" />
+<img width="933" height="206" alt="image" src="https://github.com/user-attachments/assets/50e699c5-f5fb-4e20-8dfb-3d69a539467d" />
+
 
 
 
