@@ -34,6 +34,11 @@ Exercice 4 :
 
 <img width="938" height="473" alt="image" src="https://github.com/user-attachments/assets/a7bab362-0ac4-4253-a966-9ade0f5e9ecf" />
 
+Les deux services créés grace au fichier targets.json
+
+<img width="1918" height="966" alt="image" src="https://github.com/user-attachments/assets/9ce523d8-0f5e-4df5-ba43-fd13874d6fe3" />
+
+
 
 
 
