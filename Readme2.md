@@ -26,5 +26,10 @@ Job node sur prometheus après l'avoir relancé :
 
 <img width="516" height="925" alt="image" src="https://github.com/user-attachments/assets/93e25e4d-90f1-4870-995d-05eb7a869ae0" />
 
+Relevé des métriques de node_exporter : 
+
+<img width="1883" height="977" alt="image" src="https://github.com/user-attachments/assets/e6fb8478-cb57-4e66-a7a5-42079dff9839" />
+
+
 
 
