@@ -38,6 +38,21 @@ Les deux services créés grace au fichier targets.json
 
 <img width="1918" height="966" alt="image" src="https://github.com/user-attachments/assets/9ce523d8-0f5e-4df5-ba43-fd13874d6fe3" />
 
+Avant : 
+
+<img width="497" height="397" alt="image" src="https://github.com/user-attachments/assets/2f678a79-6a31-4640-841b-b39bf81eaf2a" />
+
+Après : 
+
+<img width="530" height="275" alt="image" src="https://github.com/user-attachments/assets/fefdbdc4-8f6a-4fe9-ba8c-5144b3b3078d" />
+
+Résultat : 
+
+<img width="1918" height="797" alt="image" src="https://github.com/user-attachments/assets/23cec221-cb74-4677-a32d-a87fe9218a1d" />
+
+
+
+
 
 
 
