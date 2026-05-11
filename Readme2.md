@@ -30,6 +30,11 @@ Relevé des métriques de node_exporter :
 
 <img width="1883" height="977" alt="image" src="https://github.com/user-attachments/assets/e6fb8478-cb57-4e66-a7a5-42079dff9839" />
 
+Exercice 4 : 
+
+<img width="938" height="473" alt="image" src="https://github.com/user-attachments/assets/a7bab362-0ac4-4253-a966-9ade0f5e9ecf" />
+
+
 
 
 
