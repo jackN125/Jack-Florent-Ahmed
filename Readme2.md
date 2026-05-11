@@ -16,3 +16,10 @@ Lancement de prometheus avec le yaml :
 
 On voit que le job-name à récupéré ma modificaion "ca-marche"
 
+Exercice 3 : 
+
+Configuration du job node :
+
+<img width="486" height="91" alt="image" src="https://github.com/user-attachments/assets/2e84fbe9-b351-4caa-98e9-f175f6d1fa08" />
+
+
