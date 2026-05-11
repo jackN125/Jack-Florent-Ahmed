@@ -11,3 +11,8 @@ Exercice 2 :
 Lancement de prometheus avec le yaml :
 
 <img width="1891" height="83" alt="image" src="https://github.com/user-attachments/assets/55233a57-3eac-4d5c-bc65-f2aa84ba06bb" />
+
+<img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/2d8402f6-62ee-4a01-b510-c21e06fd8760" />
+
+On voit que le job-name à récupéré ma modificaion "ca-marche"
+
